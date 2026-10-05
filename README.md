@@ -2,7 +2,7 @@
 Bachelor's Degree in Software Engineering<br>
 TARUMT
 
-Software Engineer at TMS LITE SDN BHD.
+Former Software Engineering Intern at TMS LITE SDN BHD.
 
 I build web and mobile applications, test software carefully, and explore practical uses of AI and automation.
 
