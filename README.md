@@ -27,10 +27,3 @@ Functional Testing · Software Testing · Quality Assurance · Test Automation �
 
 ## Other skills
 Object-Oriented Programming · Mobile Application Development · Web Application Development · Graphic Design · GUI Design · Prototyping · SQL · PhpMyAdmin · CLI · DOS Commands · Command Prompt · System Configuration · Linux Security · File Management · Shell Scripting
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=ErnerdXD&theme=omni&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=ErnerdXD&theme=omni&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=ErnerdXD&theme=omni&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
----
-[![](https://komarev.com/ghpvc/?username=ErnerdXD&icon=0&color=0)](https://visitcount.itsvg.in)
