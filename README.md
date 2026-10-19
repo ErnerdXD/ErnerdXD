@@ -17,7 +17,7 @@
 ## AI, Machine Learning & Data Science
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
-Generative AI · Gemini APIs · Prompt Engineering · Machine Learning · Facial Recognition
+Generative AI · Gemini APIs · Prompt Engineering · Machine Learning · Facial Recognition · Computer Vision · YOLOv5 · YOLOv8 · YOLO11
 
 ## Software Testing & Quality Assurance
 Functional Testing · Software Testing · Quality Assurance · Test Automation · Web Testing · Selenium · Selenium WebDriver · Game Testing · Decision Tables · Cause & Effect Diagrams
